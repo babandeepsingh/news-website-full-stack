@@ -1,7 +1,7 @@
 import React from 'react'
-import PdfE1 from '../../pdf/TrolleyTimes_Punjabi_V1E1.pdf';
-import PdfE2 from '../../pdf/TrolleyTimes_Punjabi_V1E2.pdf';
-import PdfE1Eng from '../../pdf/TrolleyTimes_English_V1E1.pdf';
+import PdfE1 from '../pdf/TrolleyTimes_Punjabi_V1E1.pdf';
+import PdfE2 from '../pdf/TrolleyTimes_Punjabi_V1E2.pdf';
+import PdfE1Eng from '../pdf/TrolleyTimes_English_V1E1.pdf';
 
 
 
