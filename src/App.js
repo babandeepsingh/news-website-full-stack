@@ -12,7 +12,6 @@ import Home from './component/Home/Home'
 import About from './component/About/About'
 import PDFDownload from './component/PDFDownload';
 import apiService from './api.service';
-import './App.css';
 import Punjabi from './component/Home/Punjabi/Punjabi';
 import Admin from './component/Admin/Admin';
 
